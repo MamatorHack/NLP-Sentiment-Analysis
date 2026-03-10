@@ -61,7 +61,6 @@ pip install torch pandas numpy scikit-learn matplotlib transformers datasets
 
 ## 👨‍💻 Auteur
 
-**P2Enjoy** - Étudiant en Ingénierie IA
-N'hésitez pas à consulter ma chaîne YouTube pour des démonstrations techniques et des décryptages d'outils IA !
+Mathis Marsault / Axel Bonneau / Louis Maillet
 
 ```
